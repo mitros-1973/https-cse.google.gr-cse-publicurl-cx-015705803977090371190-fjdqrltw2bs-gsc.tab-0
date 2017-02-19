@@ -54,5 +54,5 @@ documentation.
 
 * Email: contact@amcharts.com
 * Web: http://www.amcharts.com/
-* Facebook: https://www.facebook.com/amcharts
-* Twitter: https://twitter.com/amcharts
+* Facebook: https://www.facebook.com/amcharts.mitros1973
+* Twitter: https://twitter.com/amcharts.mitrostziavaras
